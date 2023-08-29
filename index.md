@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Sushant Gautam"
+github:
+  is_project_page: false
 
 ---
 
