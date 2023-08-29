@@ -1,9 +1,6 @@
 ---
 layout: default
 title: "Sushant Gautam"
-github:
-  is_project_page: false
-
 ---
 
 # Bridging Multimedia Modalities: Enhanced Multimodal AI Understanding and Intelligent Agents
