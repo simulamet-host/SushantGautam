@@ -33,4 +33,4 @@ Preliminary experiments involve fine-tuning a language model to understand socce
 
 The proposed research aims to enhance multimodal understanding by integrating diverse modalities and developing intelligent agents. Ongoing work includes evaluating outputs, refining model architectures, and exploring domain-specific optimizations. The research aims to contribute to the advancement of sophisticated AI systems and multimodal understanding.
 
-*[Full Paper](https://doi.org/10.1145/3577190.3614225)*
+*[Full Paper (coming soon)](https://doi.org/10.1145/3577190.3614225)*
