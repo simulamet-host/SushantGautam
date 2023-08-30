@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Sushant's poster in Sumula Retreat 2023"
 ---
 
