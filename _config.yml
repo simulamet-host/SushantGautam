@@ -3,7 +3,5 @@ github.is_project_page: false
 github.is_user_page: false
 plugins:
   - jekyll-redirect-from
-
-redirect_from:
-  -/_rd/SimulaRetreatPoster23
-
+whitelist:
+  - jekyll-redirect-from
