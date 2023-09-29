@@ -2,8 +2,16 @@
 layout: default
 title: "Sushant Gautam"
 ---
+PhD Student at Simula Metropolitan Center for Digital Engineering
+#### 📝 Get in touch at:  sushant@simula.no
 
-# Bridging Multimedia Modalities: Enhanced Multimodal AI Understanding and Intelligent Agents
+HomePage: [https://simula.no/people/sushant](https://simula.no/people/sushant)
+
+LinkedIn: [https://www.linkedin.com/in/esushant/](https://www.linkedin.com/in/esushant/)
+
+
+### Topic: 
+Bridging Multimedia Modalities: Enhanced Multimodal AI Understanding and Intelligent Agents
 
 ## Abstract
 
@@ -32,5 +40,3 @@ Preliminary experiments involve fine-tuning a language model to understand socce
 ## Conclusion and Next Steps
 
 The proposed research aims to enhance multimodal understanding by integrating diverse modalities and developing intelligent agents. Ongoing work includes evaluating outputs, refining model architectures, and exploring domain-specific optimizations. The research aims to contribute to the advancement of sophisticated AI systems and multimodal understanding.
-
-*[Full Paper (coming soon)](https://doi.org/10.1145/3577190.3614225)*

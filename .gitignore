@@ -1,0 +1,4 @@
+.sass**
+_site/assets
+*.lock
+_site/**
