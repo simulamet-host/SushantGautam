@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sushant Gautam"
+title: "I"
 permalink: /ICMI2023
 ---
 
