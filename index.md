@@ -9,7 +9,6 @@ HomePage: [https://simula.no/people/sushant](https://simula.no/people/sushant)
 
 LinkedIn: [https://www.linkedin.com/in/esushant/](https://www.linkedin.com/in/esushant/)
 
-
 ### Topic: 
 Bridging Multimedia Modalities: Enhanced Multimodal AI Understanding and Intelligent Agents
 
@@ -37,6 +36,10 @@ The research plan involves literature review, data curation, model development, 
 
 Preliminary experiments involve fine-tuning a language model to understand soccer game events using video, audio, and commentary data. The model's vision-language and audio-language branches are being fine-tuned to capture visual and auditory cues, contributing to comprehensive understanding of events.
 
-## Conclusion and Next Steps
+## Conclusion
 
 The proposed research aims to enhance multimodal understanding by integrating diverse modalities and developing intelligent agents. Ongoing work includes evaluating outputs, refining model architectures, and exploring domain-specific optimizations. The research aims to contribute to the advancement of sophisticated AI systems and multimodal understanding.
+
+
+### Publications: 
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FHDMtAKFAbHHX96Gtu&noBootstrap=1&jsonp=1"></script>
