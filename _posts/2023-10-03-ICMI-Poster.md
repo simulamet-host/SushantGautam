@@ -14,6 +14,8 @@ Homepage: [https://simula.no/people/sushant](https://simula.no/people/sushant)
 LinkedIn: [https://www.linkedin.com/in/esushant/](https://www.linkedin.com/in/esushant/)
 
   <iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/simulamet-host/SushantGautam/main/assets/Sushant%27s%20Poster-ICMI%202023.pdf&embedded=true" style="width:100%; height:80vh;" frameborder="0"></iframe>
+# ____
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSJuiiMLoo5hajPf3ZnB4_rdKdjKUVMo2JWFcOGF6Ru6lncfXrcBvgmAHdFZDcLfexjMVQO-8ig8xmU/embed?start=false&loop=false&delayms=5000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 # ____
 
