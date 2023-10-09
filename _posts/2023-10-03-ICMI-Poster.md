@@ -22,5 +22,4 @@ LinkedIn: [https://www.linkedin.com/in/esushant/](https://www.linkedin.com/in/es
 ### Presented at: 
 #### The Doctoral Consortium in the 25th International Conference on Multimodal Interaction (ICMI 2023). Paris, France
 
-Extended abstract will be available [here](https://doi.org/10.1145/3577190.3614225).
-
+The extended abstract is available [here](https://doi.org/10.1145/3577190.3614225).
